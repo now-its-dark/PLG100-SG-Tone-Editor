@@ -8,7 +8,8 @@ This is a very WIP Ctrlr editor panel for the [Yamaha PLG100-SG, Formant Synging
 | ------------- |---------------| 
 | Control of documented parameters     | ☒ Completed |
 | Layout refinement     | ☐ In Progress    |
-| Visual Design | ☐ In Progress      | 
+| Visual design | ☐ In Progress      | 
+| Correct param name display in DAW| ☐ In Progress      | 
 | Librarian & MIDI file export | ☐ Not started     | 
 | Macros & syllable/dictonary input | ☐ Not started     |
 
