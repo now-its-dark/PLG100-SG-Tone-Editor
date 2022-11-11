@@ -21,3 +21,10 @@ There is an "SG Easy Editor" OPT module created by Yamaha at the time of release
 
 I'm working on a properly designed UI and also aiming to expand this beyond basic parameter controls, but it is already really fun to use! 
 If you are interested in synthesis and have access to one of these boards, I'd love to hear your thoughts.
+
+Some design mocks I'm putting together: 
+next step is to tune these a bit and bring the assets into the ctrlr editor.
+
+![mock1](/img/mocksv1/01%20PLG100-SG_Voice_Editor_system.png)
+![mock2](/img/mocksv1/02%20PLG100-SG_Voice_Editor_formant.png)
+![mock3](/img/mocksv1/03%20PLG100-SG_Voice_Editor_modulation.png)
