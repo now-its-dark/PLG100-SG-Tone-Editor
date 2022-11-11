@@ -1,0 +1,106 @@
+Original Preset Voice List
+
+Adult Male
+
+	001:M-Male
+	002:M-ASoft
+	003:M-AHusky
+	004:M-Enka
+	005:M-Opera
+	006:M-Classic
+	007:M-Antiq
+	008:M-DamiVo
+	009:M-MidAge
+	010:M-Heavy
+
+Young Male
+	
+	11:M-YngMan
+	12:M-YSoft
+	13:M-YHusky
+	14:M-AGO
+	15:M-Idol
+	16:M-Honest
+	
+Adult Woman
+
+	021:F-NMusic
+	022:F-Weak
+	023:F-Modrat
+	024:F-Enka
+	025:F-Opera
+	026:F-Coquet
+	027:F-Antiq
+	028:F-Nose
+	029:F-Chobo
+	
+Young Woman
+
+	031:F-Pops
+	032:F-SOft
+	033:F-Boyish
+	034:F-Buriko
+	035:F-Bright
+	036:F-Teens
+	037:F-Honest
+	
+Child
+
+	041:Boy
+	042:Girl
+	043:Baby
+	044:NoseChld
+	045:Comical
+	
+Creature
+
+	051:Hitsuji
+	052:Kaeru
+	053:Karasu
+	054:Ushi
+	055:Kah
+	
+Alien
+
+	061:Mercury
+	062:Venus
+	063:Mars
+	064:Jupiter
+	065:Saturn
+	
+Robot
+
+	071:Mirai
+	072:AM.Radio
+	073:HAL100
+	074:TinyUFO
+	075:SpSiren
+	076:LowFi
+	077:Kororo
+	078:CrzyRobo
+	079:OpenRobo
+	080:Toremoro
+	
+Instruments
+
+	081:VTrumpet
+	082:VOrgan
+	083:VSynBass
+	084:VSynth1
+	085:VSynth2
+	
+Nature
+
+	091:Kaze
+	092:Taki
+	093:Arashi
+	094:Umi
+	095:WaterEFX
+	
+Other
+	
+	101:Naki
+	102:Dosukoi
+	103:Onchi
+	104:Unison1
+	105:Unison2
